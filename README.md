@@ -1,7 +1,6 @@
-- 👋 Hi, I’m John
-- 👀 I’m interested in developing and programming
+- 👋 Hi, I’m John.
+- 👀 I’m interested in developing and programming.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cryptosgn@mockingjo.com
 
 <!---
